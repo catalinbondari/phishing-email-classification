@@ -24,7 +24,7 @@ To run this script, you'll need the following dependencies:
 - Seaborn
 - Wordcloud
 - Tqdm
-- 
+  
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
